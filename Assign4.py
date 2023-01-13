@@ -1,11 +1,3 @@
-'''
-Lecture: COMPSCI 1026A 002
-Name: Jocelyn Chang
-
-This main python file works along with Airport.py and Flight.py to act as a program to load to text files and use the
-file content to analyze the flights and find necessary information a user may need regarding their concerns.
-'''
-
 from Flight import *
 from Airport import *
 
